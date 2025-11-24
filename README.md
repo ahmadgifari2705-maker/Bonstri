@@ -1,3 +1,5 @@
-# Bonstri
+pkg install git.
 REDEEM MANUAL DULU VOCNYA KLO BLUM PERNAH REDEEM
 KLO UDAH PERNAH TINGGAL GAS
+pkg install php.
+git clone
